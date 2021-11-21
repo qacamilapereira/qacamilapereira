@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qacamilapereira
 - 👀 I’m interested in software testing automation.
 - 🌱 I’m currently learning Selenium, Appium, Python, Javascript, Java.
-- 💞️ I’m looking to collaborate on software testing projects.
+- 💞️ I’m looking to collaborate on software testing community.
 - 📫 How to reach me https://www.linkedin.com/in/camila-pereira-1a011462/.
 
 <!---
